@@ -4,7 +4,7 @@ This are the slides from a talk I gave about TypeScript.
 
 ## Build
 
-To bouild the slides just run 
+To build the slides just run 
 
 ```bash
 yarn run build
