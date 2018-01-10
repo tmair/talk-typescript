@@ -14,6 +14,7 @@ var link = document.createElement( 'link' );
 
 Reveal.initialize({
     // Push each slide change to the browser history
+    controls: true,
 	history: true,
     center: false,
     dependencies: [
